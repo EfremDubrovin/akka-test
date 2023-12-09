@@ -1,12 +1,25 @@
+# COMPILED CLASSES
+*.class
+
+# LOG FILES
+*.log
+
+# MAVEN
 target/
 
-.settings
+# ECLIPSE
 .project
 .classpath
+.settings/
 
-.idea
+# INTELLIJ
+.idea/
 *.iml
 
-.metals
-.bloop
+# GIT
+*.orig
 
+# OS SPECIFIC
+.DS_Store
+
+# Project-specific
